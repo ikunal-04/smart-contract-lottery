@@ -1,11 +1,12 @@
-# Khelo Contract Lottery
+# Smart Contract Lottery
 
 ## About
 This is a proveably random Smart Contract Lottery project.
 
 ## What does this Lottery Contract can do:- (Feature)
 
-1. 
+1. It allows users to participate in a lottery contests.
+2. Picking-up winner is randomly and automatically done by Smart Contract. This is achieved using the ChainLink VRF and ChainLink Automation.
 
 ## Tests
 
